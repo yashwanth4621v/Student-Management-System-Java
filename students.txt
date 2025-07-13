@@ -1,0 +1,4 @@
+S101,John Doe,20,Computer Science
+S102,Alice Smith,22,Information Technology
+S103,Raj Kumar,19,Electronics
+S104,Emily Davis,21,Mechanical Engineering
